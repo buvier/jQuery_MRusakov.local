@@ -11,11 +11,11 @@ div.head {
     width: 75%;
     text-align: center;
     border: 2px solid #000;
-    margin: 7%;
+    margin: 20px auto;
 }
 div.lessons {
     width: 80%;
     text-align: left;
     border: 1px dotted #000;
-    margin: 5%;
+    margin: 10px auto;
 }

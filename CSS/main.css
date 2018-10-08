@@ -2,6 +2,12 @@ body{
     background-color: #ffebcd;
 }
 h1 {
-    text-align: center;
+    /*text-align: center;*/
     font-size: large;
+}
+div {
+    width: 75%;
+    text-align: center;
+    border: 2px solid #000;
+    margin: 7% auto;
 }

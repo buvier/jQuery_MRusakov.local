@@ -23,6 +23,9 @@ div.lessons {
     text-align: left;
     border: 1px;
 }
+a {
+    text-decoration: none;
+}
 
 /* Lesson 1 */
 header div {

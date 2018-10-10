@@ -7,6 +7,11 @@ h1 {
     /*text-align: center;*/
     font-size: large;
 }
+div {
+    border: 2px solid #000;
+    margin: 10px;
+    padding: 10px;
+}
 div.head {
     width: 75%;
     text-align: center;
@@ -16,6 +21,24 @@ div.head {
 div.lessons {
     width: 80%;
     text-align: left;
-    border: 1px dotted #000;
+    border: 1px;
+}
+
+/* Lesson 1 */
+header div {
+    border: none;
+}
+div.blocks_l1 {
+    width: 90%;
     margin: 10px auto;
+    padding: 5%;
+}
+#fst_l1 {
+    background-color: red;
+}
+#scnd_l1 {
+    background-color: yellow;
+}
+#thrd_l1 {
+    background-color: green;
 }

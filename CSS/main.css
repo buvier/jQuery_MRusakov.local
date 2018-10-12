@@ -3,6 +3,11 @@ body{
     margin: 0;
     padding: 0;
 }
+div {
+    border: 2px solid #000;
+    margin: 10px;
+    padding: 10px;
+}
 div.hdr, footer{
     height: 50px;
     background: #ffa url("../images/jQuery-Mobile.png") no-repeat right;
@@ -12,17 +17,14 @@ h1 {
     /*text-align: center;*/
     font-size: large;
 }
-div {
-    border: 2px solid #000;
-    margin: 10px;
-    padding: 10px;
-}
-div.head {
+
+/*div.head {
     width: 75%;
     text-align: center;
     border: 2px solid #000;
     margin: 20px auto;
-}
+}*/
+/* */
 div.lessons {
     width: 80%;
     text-align: left;
